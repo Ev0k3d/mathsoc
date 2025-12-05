@@ -47,14 +47,14 @@ export const AUTHORS: Author[] = [
 	// assumes that the 1st author has the same socials as the site - change if needed
 	{
 		id: 1,
-		name: "Jared Truscott",
+		name: "Anson Shine",
 		socials: socials,
 		email: 'jared@jaredmakes.com'
 	},
 	// example of a 2nd author with all socials - replace with your own author(s) or remove if not needed
 	{
 		id: 2,
-		name: "Jeff Goldblum",
+		name: "Julian Pires",
 		socials: allSocials,
 		email: null
 	},
@@ -67,7 +67,7 @@ export const SITE: Site = {
 	url: "https://alkaline-theme.xyz",
 	ogImage: "/og-image.webp", // in public directory
 	author: AUTHORS[0].name, // Made with ❤️ by {your-name}
-	description: "A Neutral Base For Your Next Creation",
+	description: "SBCGS Maths Society",
 	keywords: ["astro", "theme", "blog"],
 	disableIndexing: false, // true for no indexing
 	socials: socials,
