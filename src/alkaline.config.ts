@@ -61,7 +61,7 @@ export const AUTHORS: Author[] = [
 ]
 
 export const SITE: Site = {
-	title: "Alkaline",
+	title: "SBCGS Math Society",
 	showTitleBackground: true,
 	faviconSrc: "/favicon.png", // in public directory
 	url: "https://alkaline-theme.xyz",
